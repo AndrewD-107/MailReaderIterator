@@ -1,2 +1,3 @@
 # MailReaderIterator
-One more mail reader
+
+Another way to reading emails and getting attachments from.
